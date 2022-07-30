@@ -1,4 +1,7 @@
 {
     "rust-analyzer.checkOnSave.allTargets": false,
+    "rust-analyzer.inlayHints.typeHints.enable": false,
+    "rust-analyzer.inlayHints.closureReturnTypeHints.enable": "never",
+    "rust-analyzer.inlayHints.typeHints.hideClosureInitialization": true,
     "editor.formatOnSave": true
 }
